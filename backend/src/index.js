@@ -8,5 +8,4 @@ app.use(express.json())
    .use(routes)
    .use(cors());
 
-
 app.listen(3333);
